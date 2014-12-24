@@ -1,4 +1,4 @@
 CC-iOS
 ======
 
-CC-iOS是一个完全开源的通信SDK。
+CC-iOS是仿微信App完全开源即时通信SDK。
